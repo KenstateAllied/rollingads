@@ -16,7 +16,8 @@ export default class App extends React.Component {
           />
         </AutoScroll>
         <AutoScroll style={styles.scrolling2} >
-          <Text style={styles.welcome}>MERRY CHRISTMAS AND HAPPY NEW YEAR</Text>
+          <Text style={styles.welcome}>FOR ALL YOUR SOFTWARE DEVELOPMENT & DIGITAL WORKS</Text>
+        <Text style={styles.welcome}>KENSTATE ALLIED +254 724 052 417  </Text>
         </AutoScroll>
       </View>
     );
